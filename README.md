@@ -1,4 +1,4 @@
-# euniversal.github.io
+# eUniversal
 
 Repository for the eUniversal project. 
 
